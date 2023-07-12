@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://codepen.io/priyobrotokarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="priyobrotokarmakar" height="30" width="40" /></a>
 <a href="https://twitter.com/priyobroto2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyobroto2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyobroto karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyobroto karmakar" height="30" width="40" /></a>
-<a href="https://fb.com/priyobroto karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyobroto karmakar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyobroto-karmakar-151546228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyobroto karmakar" height="30" width="40" /></a>
+<a href="https://fb.com/joy.karmakar.399041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyobroto karmakar" height="30" width="40" /></a>
 <a href="https://instagram.com/priyobroto.karmakar.2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyobroto.karmakar.2004" height="30" width="40" /></a>
 </p>
 
