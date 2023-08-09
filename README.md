@@ -28,7 +28,7 @@
 <a href="https://www.codechef.com/users/priyobroto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyobroto" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/priyobroto2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyobroto2101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyobrotokarmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyobrotokarmakar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@priyobroto karmakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priyobroto karmakar" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@karmakarpriyobroto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@priyobroto karmakar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/karmakarpr86z1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="karmakarpr86z1" height="30" width="40" /></a>
 </p>
 
