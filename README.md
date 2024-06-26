@@ -1,3 +1,6 @@
+![logo](https://github.com/PRIYOBROTOKARMAKAR/PRIYOBROTOKARMAKAR/blob/main/White%20and%20Gray%20Simple%20Business%20LinkedIn%20Article%20Cover%20Image.png)
+
+
 <h1 align="center">Hi 👋, I'm Priyobroto karmakar</h1>
 <h3 align="center">You can call me Priyo 😉</h3>
 
